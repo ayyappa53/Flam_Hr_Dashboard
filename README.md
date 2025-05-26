@@ -9,6 +9,15 @@ A responsive and feature-rich HR Dashboard built using **Next.js (App Router)**,
 🌐 **Live Demo:** [View Live Dashboard](https://flam-hr-dashboard.vercel.app/)  
 🔗 **GitHub Repository:** [View on GitHub](https://github.com/ayyappa53/Flam_Hr_Dashboard)
 
+---
+
+## 📸 Sample Screenshots
+![image](https://github.com/user-attachments/assets/79590ca8-c08b-4700-860e-0184b83352a6)
+![image](https://github.com/user-attachments/assets/ad4c8d3e-e0a9-4402-a4e1-30f5fee3c9d4)
+![image](https://github.com/user-attachments/assets/df030a14-b079-4894-ab4d-356c52f915d7)
+![image](https://github.com/user-attachments/assets/53e88d93-c2b5-4871-ac9e-dc1a268318ec)
+![image](https://github.com/user-attachments/assets/5c1b298f-1942-411c-95ca-4f797e454ccf)
+---
 ## 🛠️ Tech Stack
 
 - **Framework:** Next.js (App Router)
