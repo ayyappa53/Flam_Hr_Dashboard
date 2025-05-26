@@ -6,22 +6,8 @@ A responsive and feature-rich HR Dashboard built using **Next.js (App Router)**,
 
 ## 🚀 Live Project
 
-🌐 **Live Demo:** [View Live Dashboard](https://your-live-project-link.vercel.app)  
-🔗 **GitHub Repository:** [View on GitHub]()
-
----
-
-## 📸 Sample Screenshots
-
-| Login Page | Dashboard | Employee Detail |
-|------------|-----------|-----------------|
-| ![Login](sample-images/login.png) | ![Dashboard](sample-images/dashboard.png) | ![Employee](sample-images/employee.png) |
-
-| Bookmarks Page | Analytics Page |
-|----------------|----------------|
-| ![Bookmarks](sample-images/bookmarks.png) | ![Analytics](sample-images/analytics.png) |
-
----
+🌐 **Live Demo:** [View Live Dashboard](https://flam-hr-dashboard.vercel.app/)  
+🔗 **GitHub Repository:** [View on GitHub](https://github.com/ayyappa53/Flam_Hr_Dashboard)
 
 ## 🛠️ Tech Stack
 
@@ -91,13 +77,13 @@ A responsive and feature-rich HR Dashboard built using **Next.js (App Router)**,
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/hr-dashboard.git
+git clone https://github.com/ayyappa53/Flam_Hr_Dashboard.git
 
 # 2. Navigate to the project folder
-cd hr-dashboard
+cd Flam_Hr_Dashboard
 
 # 3. Install dependencies
 npm install
 
 # 4. Run the development server
-npm run dev
+npm start
